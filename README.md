@@ -1,0 +1,2 @@
+# AntsAndSomeBeesProject
+data folder excluded
